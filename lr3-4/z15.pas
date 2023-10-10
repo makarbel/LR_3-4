@@ -17,5 +17,4 @@ begin
   writeln('Кол-во цифр в числе: ',k);
   writeln('Сумма цифр: ',sum);
   writeln('Произведение чисел: ',prod);
-  readln
 end.
